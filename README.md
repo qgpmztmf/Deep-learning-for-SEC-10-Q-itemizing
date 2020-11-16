@@ -1,4 +1,4 @@
-# Deep-learning-for-SEC-10-Q-itemizing
+## Deep-learning-for-SEC-10-Q-itemizing
 
 # Python package setup
 1. pytorch                            1.6.0
