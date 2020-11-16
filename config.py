@@ -8,13 +8,13 @@ class DefaultConfig(object):
     vis_port = 8099 # visdom port num
     model = 'ResNet34'# 'WaveletNet'  # model used whose name should consist with the name in 'models/__init__.py'
 
-    data_root = './data/data/'
+    data_root = './data/text_data/'
     train_txt_path = './data/train_image_paths.txt'
     val_txt_path = './data/val_image_paths.txt'
-    load_model_path = None #'./checkpoints/ldct63_90.pth'
+    load_model_path = None
     test_model_path = './checkpoints/text_new_20.pth'
 
-    test_image_path = './data/test_data'
+    test_image_path = './data/test_text_data'
  
     gpu_device_index = '0'   
     batch_size = 4 # batch size
