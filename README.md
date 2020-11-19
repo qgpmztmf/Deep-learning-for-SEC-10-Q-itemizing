@@ -3,7 +3,7 @@
 ## Environment configuration
 
 1. Ubuntu 16.04 or upper (need a nvidia GPU).
-2. Pytorch with a CUDA. https://dev.to/evanilukhin/guide-to-install-pytorch-with-cuda-on-ubuntu-18-04-5217 .
+2. Pytorch with a CUDA. https://varhowto.com/install-pytorch-cuda-10-0/.
 
 ## Python package setup
 1. pytorch                            1.6.0
