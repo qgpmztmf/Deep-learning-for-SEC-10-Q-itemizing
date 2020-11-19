@@ -1,5 +1,10 @@
 # Deep-learning-for-SEC-10-Q-itemizing
 
+## Environment configuration
+
+1. Ubuntu 16.04 or upper (need a nvidia GPU).
+2. Pytorch with a CUDA. https://dev.to/evanilukhin/guide-to-install-pytorch-with-cuda-on-ubuntu-18-04-5217 .
+
 ## Python package setup
 1. pytorch                            1.6.0
 2. torchvision                        0.7.0
